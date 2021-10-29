@@ -28,6 +28,8 @@ entries:
     name: Speedscale Operator
     sources:
     - https://github.com/speedscale/speedscale-operator
+    urls:
+    - assets/speedscale-operator/speedscale-operator-0.9.24.tgz
     version: 0.9.24
   ambassador:
   - annotations:
