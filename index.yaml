@@ -7,7 +7,7 @@ entries:
       catalog.cattle.io/release-name: speedscale-operator
     apiVersion: v1
     appVersion: 0.9.24
-    created: "2021-10-29T00:00:00.000001-07:00"
+    created: "2021-10-29T00:00:00.000002-07:00"
     description: The Speedscale Operator
     digest: f56e602f017a6e48d2838033b31ce356a47db561fcd9c02e008d06b67be95b90
     home: https://www.speedscale.com/
@@ -29,7 +29,7 @@ entries:
     sources:
     - https://github.com/speedscale/speedscale-operator
     urls:
-    - assets/speedscale-operator/speedscale-operator-0.9.24.tgz
+    - assets/artifactory-ha/artifactory-ha-4.13.000.tgz
     version: 0.9.24
   ambassador:
   - annotations:
